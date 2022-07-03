@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/LuxAutos/static/css/main.b22dcffc.css",
-    "main.js": "/LuxAutos/static/js/main.90e09bea.js",
+    "main.css": "/LuxAutos/static/css/main.8ea4a37a.css",
+    "main.js": "/LuxAutos/static/js/main.18bf3da9.js",
     "static/media/Car.mp4": "/LuxAutos/static/media/Car.09bd38220bb6f590ae15.mp4",
     "index.html": "/LuxAutos/index.html",
-    "main.b22dcffc.css.map": "/LuxAutos/static/css/main.b22dcffc.css.map",
-    "main.90e09bea.js.map": "/LuxAutos/static/js/main.90e09bea.js.map"
+    "main.8ea4a37a.css.map": "/LuxAutos/static/css/main.8ea4a37a.css.map",
+    "main.18bf3da9.js.map": "/LuxAutos/static/js/main.18bf3da9.js.map"
   },
   "entrypoints": [
-    "static/css/main.b22dcffc.css",
-    "static/js/main.90e09bea.js"
+    "static/css/main.8ea4a37a.css",
+    "static/js/main.18bf3da9.js"
   ]
 }
