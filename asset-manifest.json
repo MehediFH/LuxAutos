@@ -1,15 +1,25 @@
 {
   "files": {
-    "main.css": "/LuxAutos/static/css/main.6e61e75d.css",
-    "main.js": "/LuxAutos/static/js/main.9f39c49b.js",
+    "main.css": "/LuxAutos/static/css/main.bcea40d4.css",
+    "main.js": "/LuxAutos/static/js/main.c596250f.js",
     "static/media/Car.mp4": "/LuxAutos/static/media/Car.09bd38220bb6f590ae15.mp4",
-    "static/media/heroImg.jpg": "/LuxAutos/static/media/heroImg.717ecc48caf23ce480de.jpg",
+    "static/media/weddings.jpg": "/LuxAutos/static/media/weddings.04f6c245afbda6b596cf.jpg",
+    "static/media/film.jpg": "/LuxAutos/static/media/film.a78ee05fb79fd42be7f7.jpg",
+    "static/media/phantom.jpg": "/LuxAutos/static/media/phantom.fa2cc4a418acdc09fafa.jpg",
+    "static/media/laferrari.jpg": "/LuxAutos/static/media/laferrari.cdac5d0ae3769a26a38d.jpg",
+    "static/media/p1.jpg": "/LuxAutos/static/media/p1.e0cf43b992f7e321368c.jpg",
+    "static/media/urus.jpg": "/LuxAutos/static/media/urus.b9146936ba0e9a2be4ef.jpg",
+    "static/media/ourfleet.jpg": "/LuxAutos/static/media/ourfleet.67f734cca6569f4c6288.jpg",
+    "static/media/leisure.jpg": "/LuxAutos/static/media/leisure.e6b15bc6e62f894294d3.jpg",
+    "static/media/huracan.jpg": "/LuxAutos/static/media/huracan.19a43147ee2737ac47db.jpg",
+    "static/media/bentayga.jpg": "/LuxAutos/static/media/bentayga.216d88ba4d3f5b4be50c.jpg",
+    "static/media/corporate.jpg": "/LuxAutos/static/media/corporate.9873a488b93439108fbc.jpg",
     "index.html": "/LuxAutos/index.html",
-    "main.6e61e75d.css.map": "/LuxAutos/static/css/main.6e61e75d.css.map",
-    "main.9f39c49b.js.map": "/LuxAutos/static/js/main.9f39c49b.js.map"
+    "main.bcea40d4.css.map": "/LuxAutos/static/css/main.bcea40d4.css.map",
+    "main.c596250f.js.map": "/LuxAutos/static/js/main.c596250f.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e61e75d.css",
-    "static/js/main.9f39c49b.js"
+    "static/css/main.bcea40d4.css",
+    "static/js/main.c596250f.js"
   ]
 }
