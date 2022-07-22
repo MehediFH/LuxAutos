@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/LuxAutos/static/css/main.bcea40d4.css",
-    "main.js": "/LuxAutos/static/js/main.c596250f.js",
+    "main.css": "/LuxAutos/static/css/main.ac2c9c37.css",
+    "main.js": "/LuxAutos/static/js/main.2819ff5b.js",
     "static/media/Car.mp4": "/LuxAutos/static/media/Car.09bd38220bb6f590ae15.mp4",
     "static/media/weddings.jpg": "/LuxAutos/static/media/weddings.04f6c245afbda6b596cf.jpg",
     "static/media/film.jpg": "/LuxAutos/static/media/film.a78ee05fb79fd42be7f7.jpg",
@@ -15,11 +15,11 @@
     "static/media/bentayga.jpg": "/LuxAutos/static/media/bentayga.216d88ba4d3f5b4be50c.jpg",
     "static/media/corporate.jpg": "/LuxAutos/static/media/corporate.9873a488b93439108fbc.jpg",
     "index.html": "/LuxAutos/index.html",
-    "main.bcea40d4.css.map": "/LuxAutos/static/css/main.bcea40d4.css.map",
-    "main.c596250f.js.map": "/LuxAutos/static/js/main.c596250f.js.map"
+    "main.ac2c9c37.css.map": "/LuxAutos/static/css/main.ac2c9c37.css.map",
+    "main.2819ff5b.js.map": "/LuxAutos/static/js/main.2819ff5b.js.map"
   },
   "entrypoints": [
-    "static/css/main.bcea40d4.css",
-    "static/js/main.c596250f.js"
+    "static/css/main.ac2c9c37.css",
+    "static/js/main.2819ff5b.js"
   ]
 }
